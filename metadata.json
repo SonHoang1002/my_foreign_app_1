@@ -1,0 +1,6 @@
+{
+  "name": "Học Ngoại Ngữ AI",
+  "description": "Ứng dụng học ngoại ngữ thông minh tích hợp AI hỗ trợ tra từ điển, từ vựng hàng ngày, ôn tập 4 kỹ năng và thi thử chứng chỉ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
